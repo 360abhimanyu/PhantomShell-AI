@@ -1,6 +1,6 @@
 # 👻 PhantomShell AI — The Ghost in Your Machine
 
-![PhantomShell AI Poster](PhantomShell.png)
+![PhantomShell](PhantomShell.png)
 
 **A local-first, open-weight AI terminal companion that explains Linux commands, whispers warnings about risky operations, and adds a little Halloween atmosphere.**
 
